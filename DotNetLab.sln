@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetLab", "DotNetLab\DotNetLab.csproj", "{5C061DBE-597D-40C7-86A5-B5423C9FDBD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{108A93D1-7EB4-4254-8E99-8F11135D1D55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeTests", "BinaryTreeTests\BinaryTreeTests.csproj", "{E9CD967D-FD0C-4947-8401-7B9EF6604AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C061DBE-597D-40C7-86A5-B5423C9FDBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C061DBE-597D-40C7-86A5-B5423C9FDBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C061DBE-597D-40C7-86A5-B5423C9FDBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C061DBE-597D-40C7-86A5-B5423C9FDBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108A93D1-7EB4-4254-8E99-8F11135D1D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108A93D1-7EB4-4254-8E99-8F11135D1D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108A93D1-7EB4-4254-8E99-8F11135D1D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108A93D1-7EB4-4254-8E99-8F11135D1D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9CD967D-FD0C-4947-8401-7B9EF6604AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CD967D-FD0C-4947-8401-7B9EF6604AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CD967D-FD0C-4947-8401-7B9EF6604AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CD967D-FD0C-4947-8401-7B9EF6604AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

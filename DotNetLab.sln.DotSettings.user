@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=108A93D1_002D7EB4_002D4254_002D8E99_002D8F11135D1D55_002Ff_003ABinaryTree_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\anton\AppData\Local\JetBrains\Rider2021.2\resharper-host\temp\Rider\vAny\CoverageData\_DotNetLab.-956286471\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=11f9e255_002D405c_002D42cd_002Dba30_002D37990a896341/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CopyTo" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E9CD967D-FD0C-4947-8401-7B9EF6604AFB::net6.0::BinaryTreeTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=58e1e30f_002D7b72_002D4ec0_002Da2ae_002Defc9fac94dfe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddingToTheTree #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E9CD967D-FD0C-4947-8401-7B9EF6604AFB::net6.0::BinaryTreeTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=97b8a2ab_002Df72c_002D406f_002Db413_002Ddee6c4a2d5d0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddingToTheTree" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E9CD967D-FD0C-4947-8401-7B9EF6604AFB::net6.0::BinaryTreeTests.Tests.AddingToTheTree&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E9CD967D-FD0C-4947-8401-7B9EF6604AFB::net6.0::BinaryTreeTests.Tests.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
